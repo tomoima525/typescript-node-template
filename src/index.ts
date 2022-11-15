@@ -1,3 +1,4 @@
+
 async function main(): Promise<void> {
   await new Promise(resolve => resolve(true));
 }
